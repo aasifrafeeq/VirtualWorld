@@ -2,8 +2,8 @@
 Hi guys.Have you guys seen the movie matrix. 
 What we are trying to build here something similar to that
 
-This is program in python 
- As of now i just put together a simple class for defing people
+This program is being built in python 
+As of now i just put together a simple class for defing people
 
 The features we want add are :
 <ul>
