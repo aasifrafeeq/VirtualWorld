@@ -1,11 +1,13 @@
 # VirtualWorld
 Hi guys.Have you guys seen the movie matrix. 
-What we are trying to build here something similar to that
+What we are trying to build here something similar to that.We will have a world with different properties
+such as climate,day,night. The world will have an over all health which decreases with increase with people's
+harmful activities(here it will be a variable with harm caused by each person)
 
 This program is being built in python <br>
 As of now i just put together a simple class for defining people
 
-The features we want to add are :
+some features that i just thought of are :
 <ul>
 <li>Store the data in a database so as "the world doesn't end each time we close the program"</li>
 <li>give people ability to give birth to children</li>
