@@ -2,12 +2,13 @@
 Hi guys.Have you guys seen the movie matrix. 
 What we are trying to build here something similar to that.We will have a world with different properties
 such as climate,day,night. The world will have an over all health which decreases with increase with people's
-harmful activities(here it will be a variable with harm caused by each person)
+harmful activities(here it will be a variable with harm caused by each person,more info after creating the files)
+<br>
 
 This program is being built in python <br>
 As of now i just put together a simple class for defining people
 
-some features that i just thought of are :
+some features that could be included are :
 <ul>
 <li>Store the data in a database so as "the world doesn't end each time we close the program"</li>
 <li>give people ability to give birth to children</li>
