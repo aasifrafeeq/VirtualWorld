@@ -2,7 +2,7 @@
 Hi guys.Have you guys seen the movie matrix. 
 What we are trying to build here something similar to that
 
-This program is being built in python 
+This program is being built in python <br>
 As of now i just put together a simple class for defing people
 
 The features we want add are :
